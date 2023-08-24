@@ -3,7 +3,7 @@ IMPORT $.^.internal.openaiGPT;
 IMPORT $.^.GPTI;
 
 
-api_key := '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';
+api_key := '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';
 
 sess := GPTI.GetSession(api_key:=api_key);
 msg := 'How are you? My name is Human';
